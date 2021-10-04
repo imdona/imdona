@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
+### I am imdona! 👩🏻‍💻
+
+<a href="https://imdona.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tstory-222222?style=flat&logo=Tstory&link=https://imdona.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+![imdona's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdona&show_icons=true&theme=calm)
+
 
 <!--
 **imdona/imdona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
