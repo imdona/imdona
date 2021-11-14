@@ -1,6 +1,5 @@
-### Hi there 👋 
-### I am imdona! 👩🏻‍💻
-#### daily commit 💻 : 2021-11-13 ~ 
+### Hi there! 👋 I'm Dona! 👩🏻‍💻
+- **Daily Commit** 💻 : *2021-11-13* 🆂🆃🅰🆁🆃
 
 <a href="https://imdona.tistory.com/">
     <img 
