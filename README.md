@@ -1,14 +1,14 @@
-👋 Hi there! I'm Dona!    
-I enjoy working out at the gym.🏋️‍♀️💪   
+### 👋 Hi there! I'm Dona!    
+<!-- I enjoy working out at the gym.🏋️‍♀️💪    -->
 I wanna be an engineer that changes the world!🌍
 
-### About me
-- how to contact to me : 📧 iminj1995@gmail.com
-- daily commit : 🏁 2021-11-13
-- my story : <a href="https://imdona.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tstory-222222?style=flat&logo=Tstory&link=https://imdona.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+##### 🌈 About me
+- How to reach me : 📧 iminj1995@gmail.com
+- Daily commit : 🏁 2021-11-13
+
+<a href="https://imdona.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech blog-4b0082?style=flat-square&logo=blog&logoColor=white"/></a>
+<a href="https://imdona.notion.site/imdona-s-Notion-4c374b9978cf4bb08d7b71ee594fb44b" target="_blank"><img src="https://img.shields.io/badge/Notion-00008b?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://github.com/imdona" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imdona)](https://solved.ac/imdona)
 
